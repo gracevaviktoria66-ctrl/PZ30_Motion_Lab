@@ -110,7 +110,7 @@ button {
 }
 .rocket.is-colored {
   background-color: var(--mint);
-  border-color: #4ac5a0;
+  border-color: #e900b2;
 }
 .stage__start,
 .stage__finish {
